@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Sus Manos Gleaners",
+    "url": "https://www.smgleaners.org/",
+    "email": "director@smgleaners.org",
+    "phone": "616-260-4282",
+    "director": "Carrie Hill; Executive Director",
+    "address": {
+      "street": "2464 Wilshere Drive",
+      "city": "Jenison",
+      "state": "MI",
+      "zip": "49428"
+    }
+  },
+  "externalLinks": {
+    "donateQgiv": "https://secure.qgiv.com/for/yn89f7",
+    "venmo": "https://www.venmo.com/u/SMGLEANERS",
+    "paypalButtonId": "5SKAVYYS5QT6U",
+    "paypalDonate": "https://www.paypal.com/donate",
+    "facebook": "https://www.facebook.com/SMGleaners",
+    "signupGenius": "https://www.signupgenius.com/go/805094AA4AC2FA2F94-susmanos",
+    "youtube": "https://youtu.be/hdGY5OPDi2o",
+    "youtubeEmbed": "https://www.youtube.com/embed/hdGY5OPDi2o"
+  },
+  "newsLinks": [
+    {
+      "title": "Terry DeBoer Article May 2023",
+      "href": "/files/53efb4_226a6f1e92a34739b798df211ef36888.pdf"
+    },
+    {
+      "title": "March 14, 2023 WHTC Morning Show",
+      "href": "https://omny.fm/shows/whtcs-morning-news-podcast/sus-manos-gleaners-3-14-23"
+    },
+    {
+      "title": "December 2, 2022 WZZM News",
+      "href": "https://www.wzzm13.com/article/life/food/sus-manos-gleaners-jenison/69-1237fad3-1c06-4a35-8bdd-3570dc59c017"
+    },
+    {
+      "title": "April 6, 2022 WOODTV8",
+      "href": "https://www.woodtv.com/news/ottawa-county/jenison-nonprofit-expands-effort-to-feed-ukraine/"
+    },
+    {
+      "title": "March 23, 2022 WOODTV8",
+      "href": "https://www.woodtv.com/news/ukraine-crisis/jenison-nonprofit-needs-help-to-package-food-for-ukraine/"
+    },
+    {
+      "title": "October 18, 2021 Fox News 17 Story",
+      "href": "https://www.fox17online.com/homepage-showcase/local-nonprofit-shocked-and-saddened-by-kidnappings-in-haiti"
+    },
+    {
+      "title": "June 17, 2021 WZZM News 13",
+      "href": "https://www.wzzm13.com/article/news/local/good-hearts-jenison-group-sends-extra-local-produce-to-families-in-haiti/69-e9ba9fbb-a5d8-4aec-a591-49b8447cf773"
+    },
+    {
+      "title": "April 2021 Calvin Spark Article",
+      "href": "https://calvin.edu/publication/spark/2021/04/01/feeding-the-world-s-poor-from-west-michigan-farms"
+    }
+  ]
+}

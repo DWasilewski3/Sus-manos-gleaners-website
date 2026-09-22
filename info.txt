@@ -1,0 +1,4 @@
+Sus Manos Gleaners website rebuild sourced from https://www.smgleaners.org/
+
+Pages: Home, About Us, Get Involved, News (events-1), Contact
+External: Qgiv, Venmo, PayPal, SignUpGenius, Facebook, YouTube, news articles, archived PDF
