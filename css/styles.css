@@ -662,6 +662,11 @@ h3 {
   max-width: 10rem;
 }
 
+#give-online .qgiv-embed-container {
+  margin: 1rem auto 0;
+  max-width: 100%;
+}
+
 .channel img {
   width: auto;
   max-height: 2.6rem;
