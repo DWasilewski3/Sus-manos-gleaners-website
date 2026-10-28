@@ -643,6 +643,26 @@ h3 {
   object-fit: cover;
 }
 
+.field-photos {
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  max-width: 52rem;
+}
+
+.field-photos img {
+  aspect-ratio: 3 / 4;
+  object-position: center 18%;
+}
+
+.crop-top {
+  object-position: center 16%;
+}
+
+.content-photo {
+  width: 100%;
+  margin: 0.25rem 0 1.1rem;
+  border: 1px solid var(--line);
+}
+
 .tier-grid,
 .channel-grid {
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
@@ -939,7 +959,8 @@ h3 {
     grid-template-columns: 1fr;
   }
 
-  .photo-strip {
+  .photo-strip,
+  .field-photos {
     grid-template-columns: 1fr 1fr;
   }
 
